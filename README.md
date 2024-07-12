@@ -11,14 +11,6 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://instagram.com/capturingthestardust" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="capturingthestardust"
-      height="30"
-      width="40"
-  /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
